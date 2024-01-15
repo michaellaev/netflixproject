@@ -20,8 +20,10 @@ GENERAL ANALYSIS:
 
 3.What were the main findings related to the Netflix platform itself?
 
+	First and foremost, understanding the information provided by the dataset was essential. The data includes the type (whether it is a TV show or a movie), the title of each entry, the director, the country, the date added to the platform, the release year, content suitability ratings, duration, and genres. The dataset comprises content added to Netflix from 2008 to 2021. The oldest content dates back to 1925, while the newest is from 2021. 
+	
 
-CONTENT BY COUNTRY:
+CONTENT BY TOP5-CONTENT COUNTRIES:
 
 
 1.How did we explore movies or series produced by country?
