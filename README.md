@@ -46,7 +46,7 @@ PARENTAL SUITABILITY
 2.Were there trends or preferences in the production of family-friendly content versus mature content?
 
 
-PURPOSE AND USEFULLNESS:
+PURPOSE AND USEFULLNESS:/Users/michaellaeuaggelou/Downloads/newplot.png
 
 
 1.How does the project's analysis provide insights for a production company planning to finance a movie?
@@ -57,3 +57,5 @@ PURPOSE AND USEFULLNESS:
 
 
 These questions can serve as a guide for presenting or discussing various aspects of the project during a presentation or report.
+
+
