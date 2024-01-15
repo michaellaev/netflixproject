@@ -8,6 +8,9 @@ In collaboration with: Elias Sarousavvidis and Konstantinos Nikolopoulos
 
 One specific aspect we zoomed in on was identifying the top 5 countries with the most significant contributions to movies and TV shows content. This analysis provided valuable insights for a production company considering financing a movie, aiding in decision-making regarding genre preferences and strategic release locations.
 
+![Project Image](https://github.com/michaellaev/netflixproject/blob/main/netflix_topfive_content.png?raw=true)
+
+
 GENERAL ANALYSIS:
 
 
@@ -46,7 +49,7 @@ PARENTAL SUITABILITY
 2.Were there trends or preferences in the production of family-friendly content versus mature content?
 
 
-PURPOSE AND USEFULLNESS:/Users/michaellaeuaggelou/Downloads/newplot.png
+PURPOSE AND USEFULLNESS:
 
 
 1.How does the project's analysis provide insights for a production company planning to finance a movie?
